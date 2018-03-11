@@ -101,3 +101,9 @@ ENV/
 .mypy_cache/
 
 .idea/
+
+bazel-bin/
+bazel-genfiles/
+bazel-out/
+bazel-py_tensourFlow/
+bazel-testlogs/
